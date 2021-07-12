@@ -2,7 +2,7 @@ from geofence import Edge, Vertex, GeoFence
 import datetime
 
 nw_corner_manhattan = Edge(40.815, -73.959)
-ne_corner_manhattan = Edge(40.799, -73.933)
+ne_corner_manhattan = Edge(40.801, -73.933)
 sw_corner_manhattan = Edge(40.714, -73.015)
 se_corner_manhattan = Edge(40.708, -73.011)
 
